@@ -5,6 +5,7 @@ You have to flash a new NEXTOR ROM image onto a MSX flash cartridge. The RookieD
 You can use the MSX USB cartridge in two modes.
 
 ### Use as disk drive
+* Need program EPM7064
 * Download [this](https://github.com/S0urceror/MSX-USB/raw/master/drivers/NextorUsbHost/dist/nextor.rom) ROM image
 * Flash the image
 * Reboot
